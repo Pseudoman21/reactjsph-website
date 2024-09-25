@@ -5,19 +5,24 @@
   "company": "MEDDICC",
   "blurb": "I'm JP, a Full Stack Dev for fun.",
   "skills": [
-    "React",
-    "Next",
+    "ReactJS",
+    "NextJS",
     "Javascript",
     "Typescript",
     "Tailwind",
     "Python",
-    "Node",
+    "Django",
+    "NodeJS",
     "PHP"
   ],
   "contacts": [
     {
       "type": "github",
       "url": "https://github.com/Pseudoman21"
+    },
+    {
+      "type": "gitlab",
+      "url": "https://gitlab.com/Pseudoman"
     },
     {
       "type": "linkedin",
